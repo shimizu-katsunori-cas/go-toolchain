@@ -1,0 +1,6 @@
+github.com/shimizu-katsunori-cas/go-toolchain/l1 v0.0.1 h1:ePVoEymufL6d1lC1CsstsXhm8QIMLLvFtJ/1c0LTHsg=
+github.com/shimizu-katsunori-cas/go-toolchain/l1 v0.0.1/go.mod h1:1hzAjiKH84NgE0eJeQzzE9qJmH+fyhBnbVEP2HUHyBM=
+github.com/shimizu-katsunori-cas/go-toolchain/l2 v0.0.1 h1:AK71TGmmczZJcZRJXzcX35NRs2BhWiJS6LqMqrkX4o4=
+github.com/shimizu-katsunori-cas/go-toolchain/l2 v0.0.1/go.mod h1:Hvsae7md/k1Z88OdIIgFC3ddb/xIK7yu1N9LL2dq70k=
+github.com/shimizu-katsunori-cas/go-toolchain/l3 v0.0.1 h1:OEMExsIlQ6kwRsrhtm5+7X9gqGmYWaO3Tr314kRQ/Yc=
+github.com/shimizu-katsunori-cas/go-toolchain/l3 v0.0.1/go.mod h1:9HtDV4G1q4rrs1ar7Wd1NiK9n0KyhTjvChcOHa1wGl8=
